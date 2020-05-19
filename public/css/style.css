@@ -1,0 +1,11 @@
+body{
+    color:grey;
+    font-family: arial;
+    max-width: 650px;
+    margin:0 auto;
+    padding: 0 16px
+}
+
+.portrait{
+    width: 250px;
+}
